@@ -1,0 +1,1 @@
+java -Xms128m -Xmx256m -classpath ./lib/log4j-1.2.17.jar; com.caiman.test.LogDemoAnt
