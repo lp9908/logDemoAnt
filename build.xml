@@ -1,4 +1,4 @@
-<project name="demo1" default="compile" basedir=".">
+<project name="logDemo" default="compile" basedir=".">
 	<property name="src" location="src"/>
 	<property name="config" location="config"/>
 	<property name="build" location="build"/>
